@@ -1,0 +1,92 @@
+<header class="page-header">
+    <h1>Cute Puppies Express!</h1>
+    <h2>External morphology</h2>
+        <h3>Head</h3>
+            <h4>Mouthparts</h4>
+        <h5>Thorax</h5>
+            <h6>Prothorax</h6>
+           
+
+</header>
+<body>
+<main>
+    <p>I love beagles <em>so</em> much! Like, really, a lot. They’re adorable and their ears are so, so snuggly soft!</p>
+<p>Almost every developer's favorite molecule is
+C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>, also known as "caffeine."</p>
+<p>The <b>Pythagorean theorem</b> is often expressed as the following equation:</p>
+
+<p><var>a<sup>2</sup></var> + <var>b<sup>2</sup></var> = <var>c<sup>2</sup></var></p>
+<p>“You're late!”</p>
+<del>
+    <p>“I apologize for the delay.”</p>
+</del>
+<ins cite="../howtobeawizard.html" datetime="2018-05">
+    <p>“A wizard is never late …”</p>
+</ins>
+<blockquote>
+    There is <del>nothing</del> <ins>no code</ins> either good or bad, but <del>thinking</del> <ins>running it</ins> makes it so.
+</blockquote>
+<div class="warning">
+    <img src="1.jpg"
+         alt="An intimidating leopard.">
+    <p>Beware of the leopard</p>
+</div>
+<p>Add the <span class="ingredient">basil</span>, <span class="ingredient">pine nuts</span> and <span class="ingredient">garlic</span> to a blender and blend into a paste.</p>
+
+<p>Gradually add the <span class="ingredient">olive oil</span> while running the blender slowly.</p>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
+<form action="" method="get" class="form-example">
+  <div class="form-example">
+    <label for="name">Enter your name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="email">Enter your email: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div class="form-example">
+    <input type="submit" value="Subscribe!">
+  </div>
+</form>
+<p>Apollo astronauts:<p/>
+
+
+
+<div class="w3-sidebar w3-bar-block" style="width:25%"> 
+  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+<div style="margin-left:25%">
+... page content ...
+</div> 
+
+
+</main>
+<article>
+    <h1>How to be a wizard</h1>
+    <ol>
+        <li>Grow a long, majestic beard.</li>
+        <li>Wear a tall, pointed hat.</li>
+        <li>Have I mentioned the beard?</li>
+    </ol>
+  <footer>
+<hr>
+<p style=color:blue;text-align:center;background-color:red;margin:35;> text appears</p>
+</footer>  
+</article>
+
+</body>
